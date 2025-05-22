@@ -34,7 +34,8 @@ flutter run
 ### 📦 Run Both Locally
 Make sure both the backend and frontend are running:
 
-Backend: http://Your System Ip Address:5000 
+Backend: http://Your System Ip Address:5000
+
 Frontend: Runs on mobile/emulator
 
 ### 📬 Feedback / Contributions
