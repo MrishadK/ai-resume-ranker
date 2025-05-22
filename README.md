@@ -43,9 +43,8 @@ Feel free to open an issue or submit a pull request if you'd like to improve or 
 ## 📸 Snap Shots
 
 ### 🖼️ Flutter App Interface  
-![interface](https://raw.githubusercontent.com/user/repo/branch/path/to/interface.png)
+![interface](https://github.com/user-attachments/assets/679bbbe5-19bd-4ee5-ab5d-763cb3e75804)
 
 ### 🧾 Exported PDF  
-![pdf](https://raw.githubusercontent.com/user/repo/branch/path/to/pdf.png)
-
+![pdf](https://github.com/user-attachments/assets/02a03440-f6a9-485d-926a-138a515fd714)
 
