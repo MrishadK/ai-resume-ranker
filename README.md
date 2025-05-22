@@ -2,7 +2,7 @@
 
 [![Code Style](https://img.shields.io/badge/code%20style-black-000000.svg )](https://github.com/psf/black )
 [![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white )](https://flutter.dev/ )
-[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg )](https://www.python.org/ )
+[![Python](https://img.shields.io/badge/Python-3.10-blue.svg )](https://www.python.org/ )
 
 A simple AI-powered resume ranker that ranks resumes based on similarity to a job description.
 
