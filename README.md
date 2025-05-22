@@ -41,5 +41,8 @@ Frontend: Runs on mobile/emulator
 Feel free to open an issue or submit a pull request if you'd like to improve or extend this project!
 
 ### 📸 Snap Shots
-![pdf](https://github.com/user-attachments/assets/25b01898-efff-4c1d-93ef-b98d738ec88b)
+-Flutter App Interface
 ![interface](https://github.com/user-attachments/assets/3992ff25-28a4-48b9-b174-dd957b63a79e)
+-Exported Pdf :
+![pdf](https://github.com/user-attachments/assets/25b01898-efff-4c1d-93ef-b98d738ec88b)
+
