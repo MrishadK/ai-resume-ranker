@@ -4,7 +4,7 @@
 [![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white )](https://flutter.dev/ )
 [![Python](https://img.shields.io/badge/Python-3.10-blue.svg )](https://www.python.org/ )
 
-A simple AI-powered resume ranker that ranks resumes based on similarity to a job description.
+An AI-based system that ranks resumes based on relevance to a given job description.
 
 ## 🧾 Description
 
