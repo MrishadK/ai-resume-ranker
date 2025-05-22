@@ -40,9 +40,12 @@ Frontend: Runs on mobile/emulator
 ### 📬 Feedback / Contributions
 Feel free to open an issue or submit a pull request if you'd like to improve or extend this project!
 
-### 📸 Snap Shots
--Flutter App Interface
-![interface](https://github.com/user-attachments/assets/3992ff25-28a4-48b9-b174-dd957b63a79e)
--Exported Pdf :
-![pdf](https://github.com/user-attachments/assets/25b01898-efff-4c1d-93ef-b98d738ec88b)
+## 📸 Snap Shots
+
+### 🖼️ Flutter App Interface  
+![interface](https://raw.githubusercontent.com/user/repo/branch/path/to/interface.png)
+
+### 🧾 Exported PDF  
+![pdf](https://raw.githubusercontent.com/user/repo/branch/path/to/pdf.png)
+
 
