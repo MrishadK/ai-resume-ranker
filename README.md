@@ -37,7 +37,7 @@ Make sure both the backend and frontend are running:
 Backend: http:// Your System Ip Address :5000
 ![image](https://github.com/user-attachments/assets/44af2b8d-6997-4598-9f03-dc2f21df0ab8)
 
-Frontend: Runs on mobile/emulator
+Frontend: Runs on muliple plateforms such as Android,Web,Ios etc.
 
 ### 📬 Feedback / Contributions
 Feel free to open an issue or submit a pull request if you'd like to improve or extend this project!
